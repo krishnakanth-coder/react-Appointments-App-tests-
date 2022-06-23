@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+}
+.each-appointment {
+  background-color: #ffffff;
+  padding: 5px;
+  margin: 0px 10px 10px 0px;
+  border: 1px solid #9796f0;
+  border-radius: 8px;
+  height: 100px;
+}
+.title-card {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.title {
+  font-size: 16px;
+  font-weight: 700;
+  color: #171f46;
+}
+.button {
+  align-self: center;
+  border: none;
+  background-color: inherit;
+}
